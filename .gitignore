@@ -1,0 +1,38 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio settings
+.vs/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.old
+
+# Packages
+*.nupkg
+packages/
+
+# Cache
+*.cache
+*.db
+
+# Others
+*.exe
+*.dll
+*.pdb
